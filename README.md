@@ -12,7 +12,7 @@ El curso es impartido por Leonidas Esteban
 
 ## Galeria
 
-![PlatziOG-desarrollo-web](imagenesRepo/PlatziOG-desarrollo-web)
+![PlatziOG-desarrollo-web.png](imagenesRepo/PlatziOG-desarrollo-web.png)
 
 ## Lo que se aprendera 
 
